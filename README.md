@@ -4,6 +4,8 @@
 
 # 💫 About Me:
 
+<img align="right" alt="procoder" src="https://user-images.githubusercontent.com/74038190/212751818-13da6fd2-27ca-45c4-9c64-3940ccfa6fd3.gif" width="300" />
+
 - 🔭 I'm a <b> Full-Stack web developer </b>
   
 - 🌱 Currently Learning <b> Blockchain </b>
@@ -41,9 +43,12 @@
 
 # 📊 GitHub Stats:
 ![](https://komarev.com/ghpvc/?username=Hemu21&abbreviated=true) <br/>
-![](https://github-readme-stats.vercel.app/api?username=Hemu21&theme=shadow_blue&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Hemu21&theme=shadow_blue&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Hemu21&theme=shadow_blue&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+<a href="https://github.com/Hemu21">
+   <img height="155em" src="https://raw.githubusercontent.com/Hemu21/github-card-template/master/profile-summary-card-output/shadow_blue/0-profile-details.svg" alt="Hemanth github stats" />
+   <img height="155em" src="https://raw.githubusercontent.com/Hemu21/github-card-template/master/profile-summary-card-output/shadow_blue/1-repos-per-language.svg" alt="Hemanth github stats" />
+ <img height="155em" src="https://raw.githubusercontent.com/Hemu21/github-card-template/master/profile-summary-card-output/shadow_blue/3-stats.svg" alt="Hemanth github stats" />
+  <img height="155em" src="https://raw.githubusercontent.com/Hemu21/github-card-template/master/profile-summary-card-output/shadow_blue/2-most-commit-language.svg" alt="Hemanth github stats" />
+   <img height="160em" src="https://raw.githubusercontent.com/Hemu21/github-card-template/master/profile-summary-card-output/shadow_blue/4-productive-time.svg" /><br/>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Hemu21&theme=shadow_blue&no-frame=false&no-bg=true&margin-w=4)
