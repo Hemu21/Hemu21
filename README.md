@@ -44,13 +44,14 @@
 # 📊 GitHub Stats:
 ![](https://komarev.com/ghpvc/?username=Hemu21&abbreviated=true) <br/>
 <a href="https://github.com/Hemu21">
-  ![](https://github-readme-stats.vercel.app/api?username=Hemu21&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-  ![](https://github-readme-streak-stats.herokuapp.com/?user=Hemu21&theme=dark&hide_border=false)<br/>
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Hemu21&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+  ![](https://github-readme-stats.vercel.app/api?username=Hemu21&theme=blue-green&hide_border=false&include_all_commits=false&count_private=true)
+  ![](https://github-readme-streak-stats.herokuapp.com/?user=Hemu21&theme=blue-green&hide_border=false)
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Hemu21&theme=blue-green&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
   ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hemu21&theme=blue_green)
   ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Hemu21&theme=blue_green)
   ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Hemu21&theme=blue_green)
   ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Hemu21&theme=blue_green&utcOffset=8)
+  <br/>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Hemu21&theme=shadow_blue&no-frame=false&no-bg=true&margin-w=4)
