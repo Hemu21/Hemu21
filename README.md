@@ -44,11 +44,11 @@
 # 📊 GitHub Stats:
 ![](https://komarev.com/ghpvc/?username=Hemu21&abbreviated=true) <br/>
 <a href="https://github.com/Hemu21">
-   <img height="155em" src="https://raw.githubusercontent.com/Hemu21/github-card-template/master/profile-summary-card-output/shadow_blue/0-profile-details.svg" alt="Hemanth github stats" />
-   <img height="155em" src="https://raw.githubusercontent.com/Hemu21/github-card-template/master/profile-summary-card-output/shadow_blue/1-repos-per-language.svg" alt="Hemanth github stats" />
- <img height="155em" src="https://raw.githubusercontent.com/Hemu21/github-card-template/master/profile-summary-card-output/shadow_blue/3-stats.svg" alt="Hemanth github stats" />
-  <img height="155em" src="https://raw.githubusercontent.com/Hemu21/github-card-template/master/profile-summary-card-output/shadow_blue/2-most-commit-language.svg" alt="Hemanth github stats" />
-   <img height="160em" src="https://raw.githubusercontent.com/Hemu21/github-card-template/master/profile-summary-card-output/shadow_blue/4-productive-time.svg" /><br/>
+   <img height="155em" src="https://raw.githubusercontent.com/Hemu21/github-card-template/master/profile-summary-card-output/blue_green/0-profile-details.svg" alt="Hemanth github stats" />
+   <img height="155em" src="https://raw.githubusercontent.com/Hemu21/github-card-template/master/profile-summary-card-output/blue_green/1-repos-per-language.svg" alt="Hemanth github stats" />
+ <img height="155em" src="https://raw.githubusercontent.com/Hemu21/github-card-template/master/profile-summary-card-output/blue_green/3-stats.svg" alt="Hemanth github stats" />
+  <img height="155em" src="https://raw.githubusercontent.com/Hemu21/github-card-template/master/profile-summary-card-output/blue_green/2-most-commit-language.svg" alt="Hemanth github stats" />
+   <img height="160em" src="https://raw.githubusercontent.com/Hemu21/github-card-template/master/profile-summary-card-output/blue_green/4-productive-time.svg" /><br/>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Hemu21&theme=shadow_blue&no-frame=false&no-bg=true&margin-w=4)
