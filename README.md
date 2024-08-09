@@ -44,11 +44,13 @@
 # 📊 GitHub Stats:
 ![](https://komarev.com/ghpvc/?username=Hemu21&abbreviated=true) <br/>
 <a href="https://github.com/Hemu21">
-   <img height="155em" src="https://raw.githubusercontent.com/Hemu21/github-card-template/master/profile-summary-card-output/blue_green/0-profile-details.svg" alt="Hemanth github stats" />
-   <img height="155em" src="https://raw.githubusercontent.com/Hemu21/github-card-template/master/profile-summary-card-output/blue_green/1-repos-per-language.svg" alt="Hemanth github stats" />
- <img height="155em" src="https://raw.githubusercontent.com/Hemu21/github-card-template/master/profile-summary-card-output/blue_green/3-stats.svg" alt="Hemanth github stats" />
-  <img height="155em" src="https://raw.githubusercontent.com/Hemu21/github-card-template/master/profile-summary-card-output/blue_green/2-most-commit-language.svg" alt="Hemanth github stats" />
-   <img height="160em" src="https://raw.githubusercontent.com/Hemu21/github-card-template/master/profile-summary-card-output/blue_green/4-productive-time.svg" /><br/>
+  ![](https://github-readme-stats.vercel.app/api?username=Hemu21&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+  ![](https://github-readme-streak-stats.herokuapp.com/?user=Hemu21&theme=dark&hide_border=false)<br/>
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Hemu21&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hemu21&theme=blue_green)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Hemu21&theme=blue_green)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Hemu21&theme=blue_green)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Hemu21&theme=blue_green&utcOffset=8)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Hemu21&theme=shadow_blue&no-frame=false&no-bg=true&margin-w=4)
