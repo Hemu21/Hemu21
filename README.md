@@ -31,15 +31,15 @@
 ## GSSOC(24) Badges 🪶:
 
 <div style='display:flex; align-items:center; gap: 5px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
-<img src="https://raw.githubusercontent.com/Hemu21/Hemu21/blob/main/assets/postman.png" width="85px" height="85px" />
-  <img src="https://raw.githubusercontent.com/Hemu21/Hemu21/blob/main/assets/1.png" width="85px" height="85px" />
-  <img src="https://raw.githubusercontent.com/Hemu21/Hemu21/blob/main/assets/2.png" width="85px" height="85px" />
-  <img src="https://raw.githubusercontent.com/Hemu21/Hemu21/blob/main/assets/3.png" width="85px" height="85px" />
-  <img src="https://raw.githubusercontent.com/Hemu21/Hemu21/blob/main/assets/4.png" width="85px" height="85px" />
-  <img src="https://raw.githubusercontent.com/Hemu21/Hemu21/blob/main/assets/5.png" width="85px" height="85px" />
-  <img src="https://raw.githubusercontent.com/Hemu21/Hemu21/blob/main/assets/6.png" width="85px" height="85px" />
-  <img src="https://raw.githubusercontent.com/Hemu21/Hemu21/blob/main/assets/7.png" width="85px" height="85px" />
-  <img src="https://raw.githubusercontent.com/Hemu21/Hemu21/blob/main/assets/8.png" width="85px" height="85px" /></a>
+<img src="https://github.com/Hemu21/Hemu21/tree/main/assets/postman.png" width="85px" height="85px" />
+  <img src="https://github.com/Hemu21/Hemu21/tree/main/assets/1.png" width="85px" height="85px" />
+  <img src="https://github.com/Hemu21/Hemu21/tree/main/assets/2.png" width="85px" height="85px" />
+  <img src="https://github.com/Hemu21/Hemu21/tree/main/assets/3.png" width="85px" height="85px" />
+  <img src="https://github.com/Hemu21/Hemu21/tree/main/assets/4.png" width="85px" height="85px" />
+  <img src="https://github.com/Hemu21/Hemu21/tree/main/assets/5.png" width="85px" height="85px" />
+  <img src="https://github.com/Hemu21/Hemu21/tree/main/assets/6.png" width="85px" height="85px" />
+  <img src="https://github.com/Hemu21/Hemu21/tree/main/assets/7.png" width="85px" height="85px" />
+  <img src="https://github.com/Hemu21/Hemu21/tree/main/assets/8.png" width="85px" height="85px" /></a>
 </div>
 
 # 📊 GitHub Stats:
