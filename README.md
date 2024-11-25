@@ -30,7 +30,7 @@
 
 ## GSSOC(24) Badges 🪶:
 
-<div style='display:flex; align-items:center; gap: 5px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
+<div style='display:flex; align-items:center; gap: 5px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard?year=2024&username=Hemu21">
 <img src="./assets/postman.png" width="85px" height="85px" />
   <img src="./assets/1.png" width="85px" height="85px" />
   <img src="./assets/2.png" width="85px" height="85px" />
