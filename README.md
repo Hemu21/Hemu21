@@ -10,7 +10,7 @@
 
 - 🔭 I'm a <b> Full-Stack(MERN) web developer</b> & <b>React Native Mobile Developer </b>
 - 🌱 Currently Learning <b> Blockchain </b>
-- 🌱 Pursuing <b>B.Tech 3rd Year</b>
+- 🌱 Pursuing <b>B.Tech Final Year</b>
 - 👯 I’m looking to collaborate on Full Stack projects
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/Hemu21/)
 - 💬 Ask me about **MERN stack, React Native , Solidity**
